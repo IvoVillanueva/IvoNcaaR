@@ -15,7 +15,7 @@ devtools::install_github("IvoVillanueva/IvoNcaaR")
    * ncaa_name = Ncaa University name
    * logos = University Logos
    * conference = Conference name
-   * conference_2 = Conferenca name 2
+   * conference_2 = Conference name 2
    * url_conference = Conference Logos
    * primary = Primary Color Team
    * secondary = Secondary Color Ream
