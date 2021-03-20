@@ -1,6 +1,6 @@
 # IvoNcaaR
 NCAA teams and leagues logos  for R
-iVoNcaaR
+
 ================
 
 ## Installation
