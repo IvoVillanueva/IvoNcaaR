@@ -1,6 +1,6 @@
 # IvoNcaaR
 NCAA teams and leagues logos  for R
-nbastatR
+iVoNcaaR
 ================
 
 ## Installation
@@ -14,6 +14,7 @@ devtools::install_github("IvoVillanueva/IvoNcaaR")
 
 
 ``` r
-library(nbastatR)
+library(iVoNcaaR)
+get_ncaa()
 
 ```
