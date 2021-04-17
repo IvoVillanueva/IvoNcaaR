@@ -10,7 +10,7 @@
 #'
 get_ncaa  <- function() {
 
-  get_ncaa <- readr::read_csv(url("https://raw.githubusercontent.com/IvoVillanueva/ncaa_logos/main/logos_2.csv"))
+  get_ncaa <- readr::read.csv(url("https://raw.githubusercontent.com/IvoVillanueva/ncaa_logos/main/logos_2.csv"))
 
   return(get_ncaa)
 
