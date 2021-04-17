@@ -16,4 +16,3 @@ get_ncaa  <- function() {
 
 }
 
-
